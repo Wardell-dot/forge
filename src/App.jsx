@@ -262,7 +262,7 @@ function App() {
         </div>
       </main>
       <footer className="footer">
-        <span>Day 39 · Performance & Best Practices · Forge</span>
+        <span>Forge</span>
       </footer>
     </div>
   )
